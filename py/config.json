@@ -1,0 +1,5 @@
+{
+    "dburi": "mongodb+srv://one-day-db:one-day-db@cluster0-buhok.mongodb.net/test?retryWrites=true&w=majority",
+    "fbclientId": "",
+    "fbclientSecret": ""
+}
